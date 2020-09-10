@@ -5,5 +5,5 @@ This code will help you send Email Campaigns through Gmail by automating the wor
 ## Setting up the project
 
 -   Clone the repo in your local computer
--   Add an excel file named `MailingList` in the same folder
--   Add column named `Email Addresses` in the excel sheet and all the mail ids in the column
+-   Add your HTML code of Digital Mailer in the file `mailer.py` in place of `ADD YOUR MAILER HERE`
+-   Add an Alternative text mailer in case someone has not allowed HTML in their Gmail in place `ADD ALTERNATIVE HERE`
